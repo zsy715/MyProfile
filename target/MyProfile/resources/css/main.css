@@ -1,0 +1,12 @@
+body{
+	margin:0 auto;
+	width:1250px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+.clear{
+	clear:both;
+}
+.ui-tooltip{
+	border:2px solid #0a82eb!important;
+}
